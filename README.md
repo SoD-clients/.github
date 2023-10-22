@@ -29,7 +29,7 @@ We believe in a collaborative approach, working closely with our clients at ever
 
 ## Contact 📬
 
-Interested in collaborating? Reach out to us via [email](soundofdialup+clients@example.com).
+Interested in collaborating? Reach out to us via [email](mailto:soundofdialup+clients@example.com).
 
 ## License 📄
 
